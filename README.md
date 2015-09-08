@@ -1,6 +1,6 @@
 
 # Ruby on Rails チュートリアル：サンプルアプリケーションですよー
-#変更をpushpushpush
+#irritated
 
 これは、以下のためのサンプルアプリケーションです。
 [*Ruby on Rails Tutorial*](http://railstutorial.jp/)
